@@ -19,8 +19,8 @@ cp .env.example .env.local
 npm run dev
 # → open http://localhost:3000
 ```
-## Donate
-[Saweria](https://saweria.co/AviL)
+## Donate [Saweria](https://saweria.co/AviL)
+
 ---
 
 ## Setup Guide
